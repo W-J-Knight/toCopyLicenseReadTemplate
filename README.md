@@ -80,7 +80,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [William Knight]((https://www.linkedin.com/in/william-knight-357454226/))
+- Linkedin - ![William Knight]((https://www.linkedin.com/in/william-knight-357454226/))
 
 
 [Back To The Top](#read-me-template)
